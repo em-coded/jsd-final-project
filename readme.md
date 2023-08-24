@@ -29,7 +29,7 @@ Technical hurdle: get details page to show
 
 
 
-Learned: a lot
+Learned: about wireframes, what to include in a readme, JS, API...
 
 
 Where next? 
