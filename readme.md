@@ -8,7 +8,7 @@
         If you used technology that we haven't covered in class, provide an overview of that
         Where next? What will you add? (i.e. Wishlist / Future Features)
 
-Link: 
+Link: https://github.com/em-coded/jsd-final-project.git
 
 
 Overview idea:
